@@ -1,0 +1,1 @@
+Visit http://localhost:8080/swagger-ui/# to see swagger api, for tests visit /test folder.
